@@ -4,10 +4,14 @@ I have a number of projects on my github. It's kind of my warehouse for active a
 
 ## Projects worth checking out: 
 
-* libconnie - Infer underlying networks. Fast c++ implementation of pyconnie.
-* pyconnie - Toy code of libconnie. The prototype.
-* graphism - monte carlo simulations on network graphs in python. This is toy code, but interesting. 
-* mongoengine-talk - The source for a talk on optimizing mongoengine in high-throughput applications.
-* caliendo - A project for testing in python. Still under relatively active development.
+* [libconnie](1) - Infer underlying networks. Fast c++ implementation of pyconnie.
+* [pyconnie](2) - Toy code of libconnie. The prototype.
+* [graphism](3) - monte carlo simulations on network graphs in python. This is toy code, but interesting. 
+* [mongoengine-talk](4) - The source for a talk on optimizing mongoengine in high-throughput applications.
+* [caliendo](5) - A project for testing in python. Still under relatively active development.
 
-
+    [1]: http://github.com/akellehe/libconnie
+    [2]: http://github.com/akellehe/pyconnie
+    [3]: http://github.com/akellehe/graphism
+    [4]: http://github.com/akellehe/mongoengine-talk
+    [5]: http://github.com/akellehe/caliendo
